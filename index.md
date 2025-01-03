@@ -1,5 +1,3 @@
-# Validity.AI Whitepaper
-
 ## Introduction
 Validity.AI is a Twitter-based research bot designed to bring transparency and actionable insights to the cryptocurrency ecosystem. By analyzing contract addresses and associated blockchain activity, Validity.AI aims to empower investors and developers with cutting-edge analytics tools, mitigating risks and uncovering opportunities in the volatile world of cryptocurrency. This document outlines the project’s goals, use cases, and roadmap for future development.
 
