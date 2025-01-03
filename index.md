@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Whitepaper & Roadmap"
 date: 2019-01-20
 ---
 
@@ -47,22 +47,22 @@ Validity.AI is a Twitter-based research bot designed to bring transparency and a
 
 ## Roadmap
 
-### Phase 1: Foundation (0-6 Months)
+### Phase 1: Foundation ✅
 - **Develop Twitter Bot:** Build and deploy a functional bot capable of analyzing contract addresses.
 - **Community Engagement:** Establish a Twitter presence, engage with users, and gather feedback.
 - **MVP Release:** Launch an initial version of the bot with core features such as contract research and wallet analysis.
 
-### Phase 2: Token Ecosystem (6-12 Months)
+### Phase 2: Token Ecosystem ⏳
 - **Token Launch:** Issue a Solana-based token and establish its utility within the ecosystem.
 - **Premium Dashboard:** Develop and release a dashboard accessible via token staking, offering advanced analytics tools.
 - **Token Partnerships:** Collaborate with cryptocurrency projects to expand token utility and adoption.
 
-### Phase 3: Website and Infrastructure (12-18 Months)
+### Phase 3: Website and Infrastructure ⏳ (~1 Month)
 - **Website Launch:** Create an intuitive platform for accessing bot data, premium dashboards, and developer APIs.
 - **Infrastructure Migration:** Transition to a decentralized swarm-node AI infrastructure to improve scalability and reliability.
 - **API Rollout:** Introduce APIs for developers to integrate Validity.AI analytics into their platforms.
 
-### Phase 4: Ecosystem Growth (18+ Months)
+### Phase 4: Ecosystem Growth ⏳ (2+ Months)
 - **Expand Features:** Add new analytics capabilities, such as NFT project tracking and cross-chain analysis.
 - **Partnerships and Integrations:** Collaborate with cryptocurrency exchanges, wallet providers, and blockchain explorers to integrate Validity.AI tools.
 - **Community Governance:** Introduce governance mechanisms for token holders to influence project development.
